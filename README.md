@@ -1,6 +1,6 @@
 # The Ancient Secrets of Computer Vision homeworks #
 
-This repo contains a full set of homeworks to the ![CSE 455](https://courses.cs.washington.edu/courses/cse455/18sp/), held in the spring of 2018 an the Univercity of Washington.
+This repo contains a full set of homeworks to the [CSE 455](https://courses.cs.washington.edu/courses/cse455/18sp/), held in the spring of 2018 an the Univercity of Washington.
 -all tests are passed
 -all tasks are done
 -the code is provided with comments for easier interaction
