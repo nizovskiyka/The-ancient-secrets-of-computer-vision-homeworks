@@ -1,0 +1,5 @@
+activation: RELU tr acc: 0.90085 test acc: 0.8991
+activation: LRELU tr acc: 0.90085 test acc: 0.8991
+activation: LOGISTIC tr acc: 0.09915 test acc: 0.1009
+activation: LINEAR tr acc: 0.90085 test acc: 0.8991
+activation: SOFTMAX tr acc: 0.90085 test acc: 0.8991

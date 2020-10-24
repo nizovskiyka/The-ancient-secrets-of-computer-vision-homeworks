@@ -1,0 +1,7 @@
+rate: 1e-07 tr acc: 0.0774166666667 test acc: 0.0751
+rate: 1e-08 tr acc: 0.0737166666667 test acc: 0.0718
+rate: 1e-09 tr acc: 0.07355 test acc: 0.0717
+rate: 1e-10 tr acc: 0.07355 test acc: 0.0716
+rate: 1e-06 tr acc: 0.11115 test acc: 0.1134
+rate: 5e-06 tr acc: 0.11335 test acc: 0.1152
+rate: 9e-06 tr acc: 0.0998 test acc: 0.1011

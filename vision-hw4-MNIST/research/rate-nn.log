@@ -1,0 +1,12 @@
+rate: 10 tr acc: 0.90085 test acc: 0.8991
+rate: 1 tr acc: 0.90085 test acc: 0.8991
+rate: 0.1 tr acc: 0.90085 test acc: 0.8991
+rate: 0.01 tr acc: 0.09915 test acc: 0.1009
+rate: 0.001 tr acc: 0.09915 test acc: 0.1009
+rate: 0.0001 tr acc: 0.180083333333 test acc: 0.1845
+rate: 1e-05 tr acc: 0.869783333333 test acc: 0.869
+rate: 1e-06 tr acc: 0.878916666667 test acc: 0.878
+rate: 1e-07 tr acc: 0.87985 test acc: 0.879
+rate: 1e-08 tr acc: 0.87995 test acc: 0.879
+rate: 1e-09 tr acc: 0.87995 test acc: 0.879
+rate: 1e-10 tr acc: 0.87995 test acc: 0.879

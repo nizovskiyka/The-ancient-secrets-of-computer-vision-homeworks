@@ -1,0 +1,24 @@
+activation: LOGISTIC
+training accuracy: 0.138966666667
+test accuracy:     0.1449
+**********************************************************************
+activation: LINEAR
+training accuracy: 0.138966666667
+test accuracy:     0.1449
+**********************************************************************
+activation: RELU
+training accuracy: 0.138966666667
+test accuracy:     0.1449
+**********************************************************************
+activation: LRELU
+training accuracy: 0.138966666667
+test accuracy:     0.1449
+**********************************************************************
+activation: SOFTMAX
+training accuracy: 0.138966666667
+test accuracy:     0.1449
+**********************************************************************
+activation: 0.0
+training accuracy: 0.34416
+test accuracy:     0.3351
+**********************************************************************

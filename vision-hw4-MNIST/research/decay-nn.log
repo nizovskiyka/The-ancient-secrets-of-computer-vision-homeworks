@@ -1,0 +1,9 @@
+decay: 0.0 tr acc: 0.87985 test acc: 0.879
+decay: 10 tr acc: 0.87985 test acc: 0.879
+decay: 1 tr acc: 0.87985 test acc: 0.879
+decay: 1000 tr acc: 0.880333333333 test acc: 0.8791
+decay: 10000 tr acc: 0.88425 test acc: 0.8827
+decay: 100000 tr acc: 0.900483333333 test acc: 0.8985
+decay: 1000000 tr acc: 0.90085 test acc: 0.8991
+decay: 10000000 tr acc: 0.09915 test acc: 0.1009
+decay: 1000000 tr acc: 0.09915 test acc: 0.1009
